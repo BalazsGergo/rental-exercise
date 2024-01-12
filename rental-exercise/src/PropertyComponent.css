@@ -1,0 +1,13 @@
+.PropertyComponent {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    
+}
+
+.PropertyComponent h2 {
+    text-align: center;
+}
